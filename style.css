@@ -1,0 +1,46 @@
+body {
+    background: #49111C;
+    font-family: 'Julius Sans One', sans-serif;
+    color: #FCF7F8;
+}
+.navbar-brand,#toggle-icon {
+    color:#FCF7F8;
+    font-size: 1.5rem;   
+    font-weight: bold;
+}
+
+.navbar-brand:hover {
+    color:#AEF6C7;
+}
+
+.nav-link {
+    color:#FCF7F8;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    color:#AEF6C7;
+}
+
+.fab {
+    color: yellowgreen;
+}
+
+.content-text {
+    font-size: 1.2rem;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.food-labels {
+    color: yellowgreen;
+}
+
+.navbar.scrolled {
+    background:#211A1D;
+    transition: background 0.5s;
+    
+}
